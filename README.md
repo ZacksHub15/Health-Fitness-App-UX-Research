@@ -39,11 +39,6 @@ The research investigates usability challenges and explores how user-centred des
 - Analysing qualitative research.
 - Designing mobile application prototypes.
 
-## Project Information
-
-- Project type: University academic project
-- Institution: Middlesex University
-- Completion: 2024
 
 ## Full Dissertation
 
